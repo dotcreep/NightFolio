@@ -9,6 +9,12 @@ NightFolio is a lightweight Hugo theme designed for showcasing professional resu
 - **Responsive** mobile‑first resume
 - **Front matter–driven**: edit `content/_index.md` to manage all content
 
+## Preview
+
+[NightFolio](https://cx48.github.io/NightFolio") can be deployed for free using Vercel or GitHub Pages
+
+![NightFolio](https://github.com/cx48/NightFolio/blob/main/static/images/screenshot.png)
+
 ## Project Structure
 
 ```text
