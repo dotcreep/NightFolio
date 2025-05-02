@@ -1,12 +1,11 @@
 # NightFolio - A Minimal & Dark Hugo Resume Theme
 
-NightFolio is a lightweight, No-JavaScript Hugo theme designed for showcasing professional resumes and portfolios. It uses Tailwind CSS for styling and contains fully modular sections out of the box.
+NightFolio is a lightweight Hugo theme designed for showcasing professional resumes and portfolios. It uses Tailwind CSS for styling and contains fully modular sections out of the box.
 
 ## Features
 
 - **Minimal design**
 - **Fully modular** sections via Hugo partials
-- **No JavaScript**
 - **Responsive** mobile‑first resume
 - **Front matter–driven**: edit `content/_index.md` to manage all content
 
