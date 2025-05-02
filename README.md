@@ -66,7 +66,7 @@ All other sections are **optional**:
 
 If you omit or leave any optional array empty, its section won’t render.
 
-## Local Development (steps will uadded soon)
+## Local Development (steps will be added soon)
 
 1. **Install Hugo** (v0.112.0+ recommended):
 
@@ -74,10 +74,6 @@ If you omit or leave any optional array empty, its section won’t render.
    brew install hugo  # macOS
    choco install hugo-extended  # Windows
    ```
-
-2. **Clone & Serve**:
-
-3. **Open** `http://localhost:1313` in your browser.
 
 ## Build
 
